@@ -1,6 +1,6 @@
 {
     "name": "pulumi-stripe",
-    "version": "${VERSION}",
+    "version": "0.0.24",
     "description": "A Pulumi package for creating and managing Stripe resources.",
     "keywords": [
         "pulumi",
